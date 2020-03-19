@@ -1,4 +1,15 @@
-<h1><em>Opdracht 1.1: </em>OBA web-app on different browsers and devices</h1>
+<h1><em>Opdracht 1.1: </em>Breaking the web</h1>
+
+<h3>Testing websites in colourblindness</h3>
+The biggest glaring issue with trying to use websites with colourblindness is that you instantly have a problem with anything that is supposed to be colour coded, like the google calendar, it is still usable but it is not as easy to identify an event by its color.
+
+![calenderBW](https://user-images.githubusercontent.com/43644032/77066139-e8f33600-69e2-11ea-86c0-3bf89dc9583c.PNG)
+
+An other issue is contrast, when a website uses very little contrast or way too much contrast a site can become completely unreadable, like the lowlands website which uses a lot of small moving objects that have a high contrast with eachother
+
+![lowlandsBW](https://user-images.githubusercontent.com/43644032/77066537-a4b46580-69e3-11ea-9caf-912c1cc2b636.PNG)
+
+<h1><em>Opdracht 1.2: </em>OBA web-app on different browsers and devices</h1>
 
 <h3>nexus 5 - android 6.0.1 - chrome 75</h3>
 no custom fonts
