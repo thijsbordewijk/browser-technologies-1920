@@ -1,0 +1,28 @@
+{
+  "name": "browser-technologies-1920",
+  "version": "1.0.0",
+  "description": "A progressive enhancement form about the minor Web Development. The form should save your information so that it is filled in when you return to the web page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovanniKaaijk/browser-technologies-1920.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovanniKaaijk/browser-technologies-1920/issues"
+  },
+  "homepage": "https://github.com/GiovanniKaaijk/browser-technologies-1920#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.5"
+  }
+}
