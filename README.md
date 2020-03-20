@@ -1,3 +1,8 @@
+<h2>Feedback punten</h2>
+ - Mongo database
+
+<h1>Concept: Enquete</h1>
+
 <h1><em>Opdracht 1.1: </em>Breaking the web</h1>
 
 <h3>Testing websites in colourblindness</h3>
