@@ -1,5 +1,6 @@
 <h2>Feedback punten</h2>
  - Mongo database
+ - register form
 
 <h1>Concept: Enquete</h1>
 
